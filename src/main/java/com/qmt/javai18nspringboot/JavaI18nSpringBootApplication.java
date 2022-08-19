@@ -1,4 +1,4 @@
-package com.lokalise.javai18nspringboot;
+package com.qmt.javai18nspringboot;
 
 import com.transferwise.icu.ICUMessageSource;
 import com.transferwise.icu.ICUReloadableResourceBundleMessageSource;

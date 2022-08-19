@@ -1,4 +1,4 @@
-package com.lokalise.javai18nspringboot;
+package com.qmt.javai18nspringboot;
 
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.stereotype.Controller;
@@ -15,6 +15,7 @@ public class HelloController {
     public String hello() {
         return "hello";
     }
+//    laplata
 
     // Mapping added to test date time functionalities of functionalities using @DateTimeFormat
     @GetMapping("/datetime")
